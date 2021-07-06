@@ -6,10 +6,12 @@ function About() {
         <div className="about">
             <div className="about-top">
                 <div className="about-info">
-                    Hello there 👋! I'm Rayna Mecham. I'm a frontend software/web developer. 
+                    Hello there 👋, I'm 
+                    <br /> <span className="info-name">Rayna Mecham</span>.
+                    <br /> I'm a frontend software &amp; web developer. 
                 </div>
                 <div className="about-photo">
-
+                    <img src={require('../../../assets/coding.png').default} alt="coding girl" className="picture" />
                 </div>
             </div>
             <div className="about-bottom">
