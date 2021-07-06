@@ -24,6 +24,7 @@
 .logo {
     display: flex;
     font-size: 36px;
+    font-weight: 800;
     color: blueviolet;
 }
 
