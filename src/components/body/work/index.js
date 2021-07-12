@@ -1,11 +1,22 @@
-import React from 'react'
+import React from "react";
+import Separator from "../../common/separator";
+import "./work.css";
+import { WorkData } from "../../data/work";
+import WorkCard from "./work-card";
 
 function Work() {
-    return (
-        <div>
-            This is Work
-        </div>
-    )
+  const data = WorkData;
+  return (
+    <div className="work">
+      <Separator />
+      <label className="section-title">Work &amp; Education</label>
+      <div className="work-list">
+        {data.map((item) => {
+          return <WorkCard item={item} />;
+        })}
+      </div>
+    </div>
+  );
 }
 
-export default Work
+export default Work;
