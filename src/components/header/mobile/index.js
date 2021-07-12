@@ -16,22 +16,22 @@ function Mobile({isOpen, setIsOpen}) {
             <div className="mobile-options">
             <div className="mobile-option">
                 <a href='#project'>
-                    <FontAwesomeIcon icon={faSplotch} style={{ display: "flex", alignItems: "center", marginRight: "4px" }} />Projects
+                    <FontAwesomeIcon icon={faSplotch} style={{ display: "flex", alignItems: "center", marginRight: "6px" }} />Projects
                 </a>
             </div>
             <div className="mobile-option">
                 <a href='#skills'>
-                    <FontAwesomeIcon icon={faLaptopCode} style={{ display: "flex", alignItems: "center", marginRight: "4px" }} />Skills
+                    <FontAwesomeIcon icon={faLaptopCode} style={{ display: "flex", alignItems: "center", marginRight: "6px" }} />Skills
                 </a>
             </div>
             <div className="mobile-option">
                 <a href="#work">
-                    <FontAwesomeIcon icon={faBriefcase} style={{ display: "flex", alignItems: "center", marginRight: "4px" }} />Work
+                    <FontAwesomeIcon icon={faBriefcase} style={{ display: "flex", alignItems: "center", marginRight: "6px" }} />Work
                 </a>
             </div>
             <div className="mobile-option">
                 <a href="#contact">
-                    <FontAwesomeIcon icon={faUserCircle} style={{ display: "flex", alignItems: "center", marginRight: "4px" }} />Contact
+                    <FontAwesomeIcon icon={faUserCircle} style={{ display: "flex", alignItems: "center", marginRight: "6px" }} />Contact
                 </a>
             </div>
             </div>

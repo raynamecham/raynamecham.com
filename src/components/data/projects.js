@@ -11,10 +11,10 @@ export const ProjectData=[
     {
         id:2,
         title: "raynamecham.com",
-        about: "Project description",
+        about: "You're here! This is my portfolio site.",
         tags: ["ReactJS", "JavaScript", "HTML", "CSS"],
         demo: "https://raynamecham.com/",
         github: "https://github.com/raynamecham/raynamecham.com",
-        image: "https://placekitten.com/200/300"
+        image: require('../../assets/projects/rayna-mecham.jpg').default
     }
 ];
