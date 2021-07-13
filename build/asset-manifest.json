@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4987658.chunk.css",
+    "main.js": "/static/js/main.cf3ddaae.chunk.js",
+    "main.js.map": "/static/js/main.cf3ddaae.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d12f3e83.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d12f3e83.js.map",
+    "static/js/2.82f804f9.chunk.js": "/static/js/2.82f804f9.chunk.js",
+    "static/js/2.82f804f9.chunk.js.map": "/static/js/2.82f804f9.chunk.js.map",
+    "static/js/3.d7bb4de6.chunk.js": "/static/js/3.d7bb4de6.chunk.js",
+    "static/js/3.d7bb4de6.chunk.js.map": "/static/js/3.d7bb4de6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c4987658.chunk.css.map": "/static/css/main.c4987658.chunk.css.map",
+    "static/js/2.82f804f9.chunk.js.LICENSE.txt": "/static/js/2.82f804f9.chunk.js.LICENSE.txt",
+    "static/media/adventure-spark.jpg": "/static/media/adventure-spark.7afcefab.jpg",
+    "static/media/coding.png": "/static/media/coding.3da6f32c.png",
+    "static/media/default_image.png": "/static/media/default_image.9a59e882.png",
+    "static/media/rayna-mecham.jpg": "/static/media/rayna-mecham.23d58ea0.jpg",
+    "static/media/resume.pdf": "/static/media/resume.e3d6abc2.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d12f3e83.js",
+    "static/js/2.82f804f9.chunk.js",
+    "static/css/main.c4987658.chunk.css",
+    "static/js/main.cf3ddaae.chunk.js"
+  ]
+}
