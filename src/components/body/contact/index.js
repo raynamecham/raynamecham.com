@@ -19,7 +19,10 @@ function Contact() {
           <SocialContact />
         </div>
         <div className="download">
-          <a download href={require("../../../assets/resume.pdf").default}>
+          <a
+            download
+            href={require("../../../assets/Rayna_Mecham_Resume.pdf").default}
+          >
             <FontAwesomeIcon
               icon={faCloudDownloadAlt}
               style={{ fontSize: "24px", marginRight: "6px" }}
