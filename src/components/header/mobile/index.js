@@ -48,7 +48,7 @@ function Mobile({ isOpen, setIsOpen }) {
           </a>
         </div>
         <div className="mobile-option">
-          <a href="#work">
+          <a href="#education">
             <FontAwesomeIcon
               icon={faBriefcase}
               style={{
@@ -57,7 +57,7 @@ function Mobile({ isOpen, setIsOpen }) {
                 marginRight: "6px",
               }}
             />
-            Work &amp; Education
+            Education &amp; Work
           </a>
         </div>
         <div className="mobile-option">

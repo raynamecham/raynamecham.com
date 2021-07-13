@@ -15,6 +15,10 @@ export const SkillsData = [
         icon: <i class="devicon-bootstrap-plain colored"></i>,
       },
       {
+        name: "Sass",
+        icon: <i class="devicon-sass-original colored"></i>,
+      },
+      {
         name: "JavaScript",
         icon: <i class="devicon-javascript-plain colored"></i>,
       },
@@ -53,12 +57,12 @@ export const SkillsData = [
     type: "Tools",
     list: [
       {
-        name: "GitHub",
-        icon: <i class="devicon-github-original colored"></i>,
-      },
-      {
         name: "VS Code",
         icon: <i class="devicon-vscode-plain colored"></i>,
+      },
+      {
+        name: "GitHub",
+        icon: <i class="devicon-github-original colored"></i>,
       },
       {
         name: "Vagrant",

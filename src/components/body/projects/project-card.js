@@ -25,7 +25,7 @@ function ProjectCard({ project }) {
                     marginRight: "4px",
                   }}
                 />
-                Demo
+                Live Site
               </div>
             </a>
           )}
@@ -37,7 +37,7 @@ function ProjectCard({ project }) {
               rel="noreferrer"
             >
               <div className="link-button">
-                <i class="devicon-github-original colored"></i>GitHub
+                <i class="devicon-github-original"></i>GitHub
               </div>
             </a>
           )}

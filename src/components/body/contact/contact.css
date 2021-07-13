@@ -32,7 +32,8 @@
 }
 
 .download {
-  background-color: aquamarine;
+  background-color: #784feb;
+  color: white;
   padding: 8px 16px;
   font-size: 24px;
   display: flex;
@@ -43,7 +44,7 @@
 
 .download a {
   text-decoration: none;
-  color: black;
+  color: white;
 }
 
 @media only screen and (max-width: 720px) {

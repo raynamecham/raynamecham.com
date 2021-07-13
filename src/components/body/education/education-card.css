@@ -1,4 +1,4 @@
-.work-card {
+.education-card {
   padding: 9px;
   width: 45%;
   margin-top: 16px;
@@ -8,31 +8,31 @@
   flex-direction: row-reverse;
 }
 
-.work-logo {
+.education-logo {
   height: 80px;
 }
 
-.work-info {
+.education-info {
   display: flex;
   align-items: flex-start;
   flex-direction: column;
 }
 
-.company-name {
+.school-name {
   font-size: 24px;
 }
 
-.work-dates {
+.education-dates {
   color: gray;
 }
 
-.work-desc {
+.education-desc {
   text-align: left;
   max-width: 80%;
 }
 
 @media only screen and (max-width: 720px) {
-  .work-card {
+  .education-card {
     width: 100%;
   }
 }

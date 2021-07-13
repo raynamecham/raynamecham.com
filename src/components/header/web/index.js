@@ -36,7 +36,7 @@ function Web() {
         </a>
       </div>
       <div className="web-option">
-        <a href="#work">
+        <a href="#education">
           <FontAwesomeIcon
             icon={faBriefcase}
             style={{
@@ -45,7 +45,7 @@ function Web() {
               marginRight: "6px",
             }}
           />
-          Work &amp; Education
+          Education &amp; Work
         </a>
       </div>
       <div className="web-option">

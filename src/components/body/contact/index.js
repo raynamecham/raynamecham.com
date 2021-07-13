@@ -25,7 +25,7 @@ function Contact() {
           >
             <FontAwesomeIcon
               icon={faCloudDownloadAlt}
-              style={{ fontSize: "24px", marginRight: "6px" }}
+              style={{ fontSize: "24px", marginRight: "6px", color: "white" }}
             />
             Download Resume
           </a>
