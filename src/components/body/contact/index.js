@@ -22,7 +22,7 @@ function Contact() {
           <a download href={require("../../../assets/resume.pdf").default}>
             <FontAwesomeIcon
               icon={faCloudDownloadAlt}
-              style={{ fontSize: "24px" }}
+              style={{ fontSize: "24px", marginRight: "6px" }}
             />
             Download Resume
           </a>

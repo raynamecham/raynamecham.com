@@ -5,6 +5,7 @@
   padding: 12px;
   position: relative;
   align-items: center;
+  margin-top: 10px;
 }
 
 .menu {
@@ -28,7 +29,7 @@
   color: blueviolet;
 }
 
-@media only screen and (max-width: 800) {
+@media only screen and (max-width: 720px) {
   .mobile-menu {
     display: flex;
   }

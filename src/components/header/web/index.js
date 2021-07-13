@@ -10,7 +10,7 @@ function Web() {
   return (
     <div className="web">
       <div className="web-option">
-        <a href="#project">
+        <a href="#projects">
           <FontAwesomeIcon
             icon={faSplotch}
             style={{

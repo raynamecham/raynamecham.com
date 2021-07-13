@@ -2,8 +2,7 @@
   flex: 1;
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  margin: 16px 0px;
+  margin: 16px 10px;
   padding: 8px 0px;
 }
 
@@ -20,6 +19,7 @@
 .project-title {
   font-size: 20px;
   font-weight: 600;
+  margin-bottom: 10px;
 }
 
 .project-tags {
@@ -39,6 +39,7 @@
 .project-links a {
   text-decoration: none;
   color: black;
+  margin-top: 10px;
 }
 
 .project-links {
@@ -71,9 +72,10 @@
 
   .project-card {
     flex-direction: column-reverse;
+    justify-content: center;
   }
   .project-info {
-    margin-left: 0px;
+    margin-right: 0px;
     margin-top: 12px;
   }
   .project-tags {

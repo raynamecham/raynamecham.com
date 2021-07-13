@@ -1,39 +1,40 @@
 .about {
-    padding-bottom: 48px;
+  padding-bottom: 48px;
 }
 
 .about-top {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .picture {
-    height: 500px;
+  height: 500px;
 }
 
 .about-info {
-    font-size: 24px;
+  font-size: 24px;
 }
 
 .info-name {
-    color:#784feb;
-    font-size: 32px;
+  color: #784feb;
+  font-size: 32px;
 }
 
-@media only screen and (max-width: 720px){
-    .about-top {
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
-    .picture {
-        height: 280px;
-    }
-    .about-info {
-        font-size: 20px;
-    }
-    .info-name {
-        font-size: 26px;
-    }
+@media only screen and (max-width: 720px) {
+  .about-top {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .picture {
+    height: 280px;
+  }
+  .about-info {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  .info-name {
+    font-size: 26px;
+  }
 }

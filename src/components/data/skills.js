@@ -53,14 +53,6 @@ export const SkillsData = [
     type: "Tools",
     list: [
       {
-        name: "Photoshop",
-        icon: <i class="devicon-photoshop-plain colored"></i>,
-      },
-      {
-        name: "Premiere Pro",
-        icon: <i class="devicon-premierepro-plain colored"></i>,
-      },
-      {
         name: "GitHub",
         icon: <i class="devicon-github-original colored"></i>,
       },
@@ -71,6 +63,14 @@ export const SkillsData = [
       {
         name: "Vagrant",
         icon: <i class="devicon-vagrant-plain colored"></i>,
+      },
+      {
+        name: "Photoshop",
+        icon: <i class="devicon-photoshop-plain colored"></i>,
+      },
+      {
+        name: "Premiere Pro",
+        icon: <i class="devicon-premierepro-plain colored"></i>,
       },
     ],
   },
