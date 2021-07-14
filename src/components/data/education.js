@@ -2,7 +2,7 @@ export const EducationData = [
   {
     company: "Hackbright Academy",
     designation: "Software Engineering Fellow",
-    dateJoined: "January 2021",
+    dateJoined: "January",
     dateEnd: "July 2021",
     companyLogo: require("../../assets/logos/hackbright.png").default,
     work: "Hackbright is a training program designed to help women become amazing programmers. It teaches the fundamentals of modern web development, including front-end, back-end, and database programming.",

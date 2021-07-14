@@ -10,11 +10,11 @@ export const ProjectData = [
       "HTML",
       "CSS",
       "Flask",
-      "jQuery(AJAX, JSON)",
+      "jQuery",
       "Bootstrap",
       "Jinja",
       "PostgreSQL",
-      "SQLALchemy",
+      "SQLAlchemy",
       "Bcrypt",
       "Selenium",
       "AWS",
@@ -28,26 +28,26 @@ export const ProjectData = [
     title: "Portfolio Site",
     about:
       "You're here! This is my first major project in React. I learned many fundamentals to building any React project through the process of creating this site. I challenged myself with my CSS and made this project fully responsive without using Bootstrap.",
-    tags: ["ReactJS", "JavaScript", "HTML", "CSS"],
+    tags: ["React", "JavaScript", "HTML", "CSS"],
     github: "https://github.com/raynamecham/raynamecham.com",
     image: require("../../assets/projects/rayna-mecham.jpg").default,
   },
   {
     id: 3,
-    title: "Madison Women's Clinic",
-    about:
-      "Madison Women's Clinic delivers high-quality, compassionate OB-GYN care to women of all ages. This was the first website I worked on. I learned HTML, CSS, and Bootstrap through working on this project.",
-    tags: ["HTML", "CSS", "Bootstrap", "Sass", "JavaScript"],
-    demo: "https://www.madisonwomensclinic.com/",
-    image: require("../../assets/projects/madisonwomensclinic.PNG").default,
-  },
-  {
-    id: 4,
     title: "Idaho Prosthetics and Orthotics",
     about:
-      "Idaho Prosthetics and Orthotics understand their patient's orthotic and prosthetic needs. On this website I was able to feel very comfortable with my frontend skills.",
+      "Idaho Prosthetics and Orthotics is a medical client who reached out in need of a new website. They were great to work with through multiple revisions and we created a fantastic mobile responsive site for them.",
     tags: ["HTML", "CSS", "Bootstrap", "Less", "JavaScript"],
     demo: "http://www.idahoprosthetics.com/",
     image: require("../../assets/projects/idahopando.PNG").default,
+  },
+  {
+    id: 4,
+    title: "Madison Women's Clinic",
+    about:
+      "Madison Women's Clinic delivers high-quality, compassionate OB-GYN care to women of all ages. This was the first website I worked on. I learned HTML, CSS, Sass, and Bootstrap through working on this project.",
+    tags: ["HTML", "CSS", "Bootstrap", "Sass", "JavaScript"],
+    demo: "https://www.madisonwomensclinic.com/",
+    image: require("../../assets/projects/madisonwomensclinic.PNG").default,
   },
 ];

@@ -12,7 +12,7 @@ function EducationCard({ item }) {
       <div className="education-info">
         <label className="school-name">{item.company}</label>
         <div className="education-dates">
-          <label>{item.dateJoined}</label>-<label>{item.dateEnd}</label>
+          <label>{item.dateJoined}</label> - <label>{item.dateEnd}</label>
         </div>
         <div className="education-desc">
           <p>{item.work}</p>

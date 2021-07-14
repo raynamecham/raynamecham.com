@@ -52,7 +52,7 @@ export const SkillsData = [
         icon: <i class="devicon-postgresql-plain colored"></i>,
       },
       {
-        name: "SQL Alchemy",
+        name: "SQLAlchemy",
         icon: <i class="devicon-sqlalchemy-plain colored"></i>,
       },
     ],
