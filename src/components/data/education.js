@@ -12,6 +12,6 @@ export const EducationData = [
     dateJoined: "2011",
     dateEnd: "2013",
     companyLogo: require("../../assets/logos/weber.png").default,
-    work: "AS Degree - General Studies",
+    work: "Associate of Science Degree - General Studies",
   },
 ];

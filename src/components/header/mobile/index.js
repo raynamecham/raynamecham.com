@@ -57,7 +57,7 @@ function Mobile({ isOpen, setIsOpen }) {
                 marginRight: "6px",
               }}
             />
-            Education &amp; Work
+            Experience
           </a>
         </div>
         <div className="mobile-option">

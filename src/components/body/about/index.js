@@ -10,7 +10,8 @@ function About() {
           Hello there 👋, I'm
           <br /> <span className="info-name">Rayna Mecham</span>.
           <br />
-          Software engineer. RPG conqueror. Avid reader. TV enthusiast.
+          Software engineer. RPG conqueror. Avid reader.{" "}
+          <span className="no-break">TV enthusiast.</span>
         </div>
         <div className="about-photo">
           <img

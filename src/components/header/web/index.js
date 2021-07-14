@@ -45,7 +45,7 @@ function Web() {
               marginRight: "6px",
             }}
           />
-          Education &amp; Work
+          Experience
         </a>
       </div>
       <div className="web-option">

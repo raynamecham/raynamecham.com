@@ -11,12 +11,16 @@ export const SkillsData = [
         icon: <i class="devicon-css3-plain colored"></i>,
       },
       {
-        name: "Bootstrap 3 & 4",
+        name: "Bootstrap",
         icon: <i class="devicon-bootstrap-plain colored"></i>,
       },
       {
         name: "Sass",
         icon: <i class="devicon-sass-original colored"></i>,
+      },
+      {
+        name: "Less",
+        icon: <i class="devicon-less-plain-wordmark colored"></i>,
       },
       {
         name: "JavaScript",
@@ -27,7 +31,7 @@ export const SkillsData = [
         icon: <i class="devicon-jquery-plain colored"></i>,
       },
       {
-        name: "ReactJS",
+        name: "React",
         icon: <i class="devicon-react-original colored"></i>,
       },
     ],
@@ -59,6 +63,10 @@ export const SkillsData = [
       {
         name: "VS Code",
         icon: <i class="devicon-vscode-plain colored"></i>,
+      },
+      {
+        name: "Git",
+        icon: <i class="devicon-git-plain colored"></i>,
       },
       {
         name: "GitHub",

@@ -37,7 +37,7 @@ export const ProjectData = [
     title: "Madison Women's Clinic",
     about:
       "Madison Women's Clinic delivers high-quality, compassionate OB-GYN care to women of all ages. This was the first website I worked on. I learned HTML, CSS, and Bootstrap through working on this project.",
-    tags: ["HTML", "CSS", "Bootstrap", "JavaScript"],
+    tags: ["HTML", "CSS", "Bootstrap", "Sass", "JavaScript"],
     demo: "https://www.madisonwomensclinic.com/",
     image: require("../../assets/projects/madisonwomensclinic.PNG").default,
   },
@@ -46,7 +46,7 @@ export const ProjectData = [
     title: "Idaho Prosthetics and Orthotics",
     about:
       "Idaho Prosthetics and Orthotics understand their patient's orthotic and prosthetic needs. On this website I was able to feel very comfortable with my frontend skills.",
-    tags: ["HTML", "CSS", "Bootstrap", "JavaScript"],
+    tags: ["HTML", "CSS", "Bootstrap", "Less", "JavaScript"],
     demo: "http://www.idahoprosthetics.com/",
     image: require("../../assets/projects/idahopando.PNG").default,
   },

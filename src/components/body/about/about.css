@@ -21,6 +21,10 @@
   font-size: 32px;
 }
 
+.no-break {
+  white-space: nowrap;
+}
+
 @media only screen and (max-width: 720px) {
   .about-top {
     flex-direction: column;
