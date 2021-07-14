@@ -10,6 +10,7 @@
 
 .education-logo {
   height: 80px;
+  margin-left: 10px;
 }
 
 .education-info {
@@ -28,7 +29,7 @@
 
 .education-desc {
   text-align: left;
-  max-width: 80%;
+  max-width: 90%;
 }
 
 @media only screen and (max-width: 720px) {
