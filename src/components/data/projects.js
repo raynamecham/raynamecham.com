@@ -36,7 +36,7 @@ export const ProjectData = [
 		id: 3,
 		title: "Madison Women's Clinic",
 		about:
-			"Madison Women's Clinic delivers high-quality, compassionate OB-GYN care to women of all ages. This was the first website I worked on. I learned HTML, CSS, Sass, and Bootstrap through working on this project.",
+			"Madison Women's Clinic delivers high-quality, compassionate OB-GYN care to women of all ages. This client reached out needing a website from scratch to help guide customers to their services.",
 		tags: ['HTML', 'CSS', 'Bootstrap', 'Sass', 'JavaScript'],
 		demo: 'https://www.madisonwomensclinic.com/',
 		image: require('../../assets/projects/madisonwomensclinic.PNG').default,
