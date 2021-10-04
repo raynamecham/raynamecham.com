@@ -9,7 +9,7 @@ function About() {
 				<div className="about-info">
 					<p>Hello there 👋</p>
 					<p>
-						<span className="no-break">I'm a Web Developer, </span>
+						<span className="no-break">I'm a Frontend Developer, </span>
 						<span className="no-break">RPG conqueror, </span>
 						<br />
 						<span className="no-break">avid reader, </span>
